@@ -1,6 +1,6 @@
-# 🤝 Contributing to ScrapeSpectator 🤝
+# Contributing to ScrapeSpectator 🌱
 
-Firstly, thank you for considering contributing to ScrapeSpectator! Your help is invaluable and we appreciate your time and effort. 🎉💕
+Firstly, thank you for considering contributing to ScrapeSpectator! Your help is invaluable and we appreciate your time and effort. 💛
 
 ## 📝 How Can I Contribute?
 
